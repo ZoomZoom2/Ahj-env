@@ -1,5 +1,5 @@
 # Webpack5
-![CI](https://github.com/ZoomZoom2/ahj-env/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/ZoomZoom24/ahj-env/actions/workflows/web.yml/badge.svg)
 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
 [Руководство по настройке GitHub Actions](https://docs.github.com/en/actions/quickstart)
